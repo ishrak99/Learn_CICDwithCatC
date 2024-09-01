@@ -1,0 +1,16 @@
+dna_center:
+  ip_address: 10.127.103.143
+  username: autolab
+  password: Lab@123!
+
+devices_lab:
+  hostname: [WLC-HA]
+
+devices_info:
+  hostname: [PDX-RO, SP, NYC-RO]
+
+project:
+  name: Jenkins
+
+template:
+  name: cli_template.txt
